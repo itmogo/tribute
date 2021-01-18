@@ -1,0 +1,103 @@
+#main-header{
+	background-color: #F5F5F5;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin:0; 
+	/*margin-top: 10px;*/
+	width: 100%;
+	/*position: fixed;*/
+}
+
+h1{
+	padding-right: 150px;
+	padding-left:250px;
+	padding-top: 20px;
+	text-align: center;
+}
+
+p{
+	padding-right: 200px;
+	padding-left: 270px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+.picture{
+	padding-left: 350px;
+	background-color: white;
+	margin: 20px;
+	padding-bottom: 10px;		
+}
+
+.title{	
+		text-align: left;
+		padding-left: 0px;		
+}
+.p1{
+	padding-right:475px;
+	padding-left:475px; 
+}
+.life-time-line{
+	text-align: none;
+}
+.background-white{
+	margin: 20px;
+	margin-bottom: 30px;
+}
+body{
+	background-color: #F5F5F5;
+	font-family: 'Nanum Myeongjo', serif;
+}
+footer p{
+	text-align: center;
+}
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+    padding-left: 100px;
+	
+}
+li{
+	margin:16px 0; 
+}
+
+#head{
+	text-align: center;
+}
+#img-caption{
+	margin: 15px 0 5px 0;  
+}
+p {
+	display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+h3{
+	/*display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;*/
+    text-align:center;	
+}
+@media (max-width: 550px)
+html {
+    font-size: 13px;
+}
+@media (max-width: 830px)
+html {
+    font-size: 14px;
+}
+.last{
+	text-align: none;	
+	padding-left: 220px;
+}
+.cite{
+		text-align:none;	
+	padding-left:490px;	
+}
